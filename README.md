@@ -61,7 +61,7 @@ Starring Meredith, Olivia, Benjamin & Wendy **as themselves**.
 ## 📄 Credits & license
 
 - Embedded font: [Comic Neue](https://github.com/crozynski/comicneue) (Bold subset, rendered as "WendyComic") — SIL Open Font License 1.1
-- Fan-made parody inspired by Taylor Swift's cats and the TTPD aesthetic. Not affiliated with anyone.
+- Fan-made parody inspired by Taylor Swift's cats and Travis Kelce's dog. Not affiliated with anyone.
 
 ---
 
